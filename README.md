@@ -1,7 +1,8 @@
 ## From Totoro to Tangled: analyzing lexical and thematic patterns in Studio Ghibli vs Disney"
 
 ## Abstract
-This project explores how the language and themes used in Studio Ghibli films compare to those in Disney animated movies. Specifically, we aim to understand differences in language complexity and recurring themes through script and subtitle analysis. We will collect text data from a selection of Ghibli and Disney films and analyze it using techniques such as lexical richness metrics, sentiment analysis, and topic modeling. By the end, we hope to understand the differences in how these two studios speak to their audiences and tell their stories.
+This project investigates linguistic and thematic differences between Studio Ghibli and Disney animated films through computational text analysis. We compare subtitles from five well-known films from each studio to explore how cultural context shapes storytelling, focusing on metrics such as lexical richness, emotional tone, and thematic focus. Our hypothesis is that Disney employs simpler, emotionally polarized language, while Ghibli favors nuanced, abstract expressions tied to nature and philosophy. Using tools like topic modeling, sentiment analysis, and syntactic complexity indices, we aim to highlight how Japanese and Western values are reflected in animated media.This work contributes to animation studies, language analysis, and cross-cultural media research.
+
 
 ## Research questions
 - How complicated or simple is the language in Ghibli movies compared to Disney?
